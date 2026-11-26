@@ -1,0 +1,6 @@
+language: en-US
+chat:
+  allow_non_org_members: false
+reviews:
+  auto_approvals:
+    enabled: true
